@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an **Front-end Engineer 🖥** with a strong background in **software architecture 🏛** and **UX 👨‍🎨**. I've been working with the web for more then **15** years, and will work until I die with the web, becase I know you always bet on JavaScript. 
+I'm an **Front-end Engineer 🖥**  with a strong background in **software architecture 🏛** and **UX 👨‍🎨**. I've been working with the web for more then **15** years, and will work until I die with the web, becase I know you always bet on JavaScript. 
 
 Currently I'm writting a book about **Vue.js 3.0** for **Packt Publishing** that will be released on 2020.
 
