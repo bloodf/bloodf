@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an **Front-end Engineer** with a strong background in **software architecture** and **UX**. I've been working with the web for more then **15** years, and will work until I die with the web, becase I know you always bet on JavaScript. 
+I'm an **Front-end Engineer 🖥** with a strong background in **software architecture 🏛** and **UX 👨‍🎨**. I've been working with the web for more then **15** years, and will work until I die with the web, becase I know you always bet on JavaScript. 
 
 Currently I'm writting a book about **Vue.js 3.0** for **Packt Publishing** that will be released on 2020.
 
-I work at [Kovi](https://www.kovi.com.br/), bringing to life new crazy stuff and big projects, based in **Vue.j**s, **Quasar Framewor**k, **graphQL**, **TypeScript** and **Serverless Framework**. 
+I work at [**Kovi**🚘](https://www.kovi.com.br/), bringing to life new crazy stuff and big projects, based in **Vue.j**s, **Quasar Framewor**k, **graphQL**, **TypeScript** and **Serverless Framework**. 
 
 Ping me on [linkedin](https://www.linkedin.com/in/heitorramon/)
