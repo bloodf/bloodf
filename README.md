@@ -18,6 +18,6 @@ I'm an **Front-end Engineer 🖥** with a strong background in **software archit
 
 Currently I'm writting a book about **Vue.js 3.0** for **Packt Publishing** that will be released on 2020.
 
-I work at [**Kovi**🚘](https://www.kovi.com.br/), bringing to life new crazy stuff and big projects, based in **Vue.j**s, **Quasar Framewor**k, **graphQL**, **TypeScript** and **Serverless Framework**. 
+I work at [**Kovi**🚘](https://www.kovi.com.br/), bringing to life new crazy stuff and big projects, based in **Vue.js**, **Quasar Framework**, **graphQL**, **TypeScript** and **Serverless Framework**. 
 
 Ping me on [linkedin](https://www.linkedin.com/in/heitorramon/)
