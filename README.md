@@ -2,7 +2,7 @@
 
 A **Front-end Engineer** 🖥 with a strong background in **software architecture 🏛** and **UX 👨‍🎨**. I've been working with the web for more than **15** years and will work until I die with the internet because I know you always bet on JavaScript. 
 
-Currently, I wrote a **Vue.js 3.0** cookbook for **Packt Publishing**. [Buy on Packt](https://bit.ly/2QEUofl) | [Buy on Amazon](https://amzn.to/32KEQw8)
+I wrote a **Vue.js 3.0** cookbook for **Packt Publishing**. [Buy on Packt](https://bit.ly/2QEUofl) | [Buy on Amazon](https://amzn.to/32KEQw8)
 
 I work at [**Kovi**🚘](https://www.kovi.com.br/), bringing to life new crazy stuff and big projects, based in **Vue.js**, **Quasar Framework**, **graphQL**, **TypeScript** and **Serverless Framework**. 
 
