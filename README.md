@@ -10,8 +10,8 @@ I'm currently working at [**Kovi**🚘](https://www.kovi.com.br/), bringing to l
 
 ----------------------
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/bloodf)
+[![Github Badge](https://img.shields.io/github/followers/bloodf?style=social)](https://github.com/bloodf)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/heitorramon/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bloo_df)](https://twitter.com/bloo_df)
+[![Twitter Badge](https://img.shields.io/twitter/follow/bloo_df?style=social)](https://twitter.com/bloo_df)
 
 
