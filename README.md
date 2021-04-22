@@ -10,6 +10,9 @@ I'm currently working at [**Kovi**🚘](https://www.kovi.com.br/), bringing to l
 
 ----------------------
 
+[![Patreon Page](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dbloodf%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/bloodf)
+
+
 [![Github Badge](https://img.shields.io/github/followers/bloodf?style=social)](https://github.com/bloodf)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/heitorramon/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/bloo_df?style=social)](https://twitter.com/bloo_df)
