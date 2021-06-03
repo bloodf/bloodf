@@ -11,6 +11,7 @@ I'm currently working at [**Kovi**🚘](https://www.kovi.com.br/), bringing to l
 ----------------------
 
 [![Patreon Page](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dbloodf%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/bloodf)
+![](https://visitor-badge.glitch.me/badge?page_id=bloodf)
 
 
 [![Github Badge](https://img.shields.io/github/followers/bloodf?style=social)](https://github.com/bloodf)
