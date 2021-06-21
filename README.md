@@ -6,8 +6,6 @@ I wrote two books about JavaScript, TypeScript, Vue.js, Quasar-Framework, AWS an
  - **Vue.js 3 Cookbook** [![Buy on Amazon](https://img.shields.io/badge/buy%20it-amazon-yellow)](https://amzn.to/2LlqMUU)
  - **Building Vue.js Applications with GraphQL** [![Buy on Amazon](https://img.shields.io/badge/buy%20it-amazon-yellow)](https://amzn.to/2XcB24r)
 
-I'm currently working at [**Kovi**🚘](https://www.kovi.com.br/), bringing to life new crazy stuff and big projects, based in **Vue.js**, **Quasar Framework**, **graphQL**, **TypeScript** and **Serverless Framework**. 
-
 ----------------------
 
 [![Patreon Page](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dbloodf%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/bloodf)
