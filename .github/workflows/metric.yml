@@ -24,5 +24,7 @@ jobs:
           # Options
           user: bloodf
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
+          filename: metrics.plugin.topics.svg
           config_timezone: America/Sao_Paulo
+          plugin_lines: yes
