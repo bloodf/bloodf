@@ -27,7 +27,8 @@ I wrote two books about JavaScript, TypeScript, Vue.js, Quasar-Framework, AWS an
  <img src="/metrics.plugin.topics.svg" />
  </td>
 <td width="50%">
-<img src="/metrics.plugin.followup.svg"/> <img src="/metrics.plugin.topics.svg" />
+ <img src="/metrics.plugin.followup.svg"/>
+ <img src="/metrics.plugin.languages.svg" />
  </td>
  </tr>
  </table>
