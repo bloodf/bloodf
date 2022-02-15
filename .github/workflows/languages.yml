@@ -25,7 +25,7 @@ jobs:
           user: bloodf
           template: classic
           base: ""
-          filename: metrics.plugin.topics.svg
+          filename: metrics.plugin.languages.svg
           config_timezone: America/Sao_Paulo
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
