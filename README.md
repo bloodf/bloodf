@@ -18,3 +18,7 @@ I wrote two books about JavaScript, TypeScript, Vue.js, Quasar-Framework, AWS an
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/heitorramon/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/bloo_df?style=social)](https://twitter.com/bloo_df)
 [![Twitter Badge](https://img.shields.io/twitch/status/bloo_df?style=social)](https://www.twitch.tv/bloo_df)
+
+----------------------
+
+![Metrics](/github-metrics.svg)
