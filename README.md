@@ -20,5 +20,14 @@ I wrote two books about JavaScript, TypeScript, Vue.js, Quasar-Framework, AWS an
 [![Twitter Badge](https://img.shields.io/twitch/status/bloo_df?style=social)](https://www.twitch.tv/bloo_df)
 
 ----------------------
-
-![Metrics](/github-metrics.svg)
+<table>
+<tr>
+<td width="50%">
+<img src="/github-metrics.svg" />
+ <img src="/metrics.plugin.topics.svg" />
+ </td>
+<td width="50%">
+<img src="/metrics.plugin.followup.svg"/> <img src="/metrics.plugin.topics.svg" />
+ </td>
+ </tr>
+ </table>
