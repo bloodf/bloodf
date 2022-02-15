@@ -28,4 +28,6 @@ jobs:
           config_timezone: America/Sao_Paulo
           filename: metrics.plugin.topics.svg
           plugin_topics: yes
-          plugin_topics_limit: 12
+          plugin_topics_limit: 10
+          plugin_topics_sort: stars
+          plugin_topics_mode: labels
