@@ -12,22 +12,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org  (for organization related metrics)
-          #  - read:user (for user related data)
-          #  - repo      (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: bloodf
-          template: classic
-          base: ""
-          config_timezone: America/Sao_Paulo
           filename: metrics.plugin.topics.svg
+          token: NOT_NEEDED
+          base: ""
           plugin_topics: yes
-          plugin_topics_limit: 10
-          plugin_topics_sort: stars
-          plugin_topics_mode: labels
+          plugin_topics_limit: 12
