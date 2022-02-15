@@ -28,7 +28,7 @@ jobs:
           filename: metrics.plugin.contributions.svg
           config_timezone: America/Sao_Paulo
           plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_indepth: no
+          plugin_notable_from: all
+          plugin_notable_indepth: yes
           plugin_notable_repositories: no
           plugin_notable_types: commit, pull_request, issue
