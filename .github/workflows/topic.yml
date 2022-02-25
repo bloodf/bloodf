@@ -16,4 +16,4 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
-          plugin_topics_limit: 12
+          plugin_topics_limit: 10
