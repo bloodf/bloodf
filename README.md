@@ -22,10 +22,11 @@ I wrote two books about JavaScript, TypeScript, Vue.js, Quasar-Framework, AWS an
  <tr valign="top">
   <td width="50%">
    <img src="/github-metrics.svg" />
-   <img src="/metrics.plugin.contributions.svg" />
+   <img src="/metrics.plugin.achievements.compact.svg" />
    <img src="/metrics.plugin.topics.svg"/>  
   </td>
   <td width="50%">
+   <img src="/metrics.plugin.contributions.svg" />
    <img src="/metrics.plugin.followup.svg"/>
    <img src="/metrics.plugin.languages.svg" />
   </td>
