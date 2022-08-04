@@ -1,0 +1,26 @@
+{
+  "name": "bloodf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloodf/bloodf.git"
+  },
+  "author": {
+    "name": "Heitor Ramon Ribeiro",
+    "email": "heitor.ramon@gmail.com",
+    "url": "https://github.com/bloodf"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bloodf/bloodf/issues"
+  },
+  "homepage": "https://github.com/bloodf/bloodf#readme",
+  "dependencies": {
+    "sponsorkit": "^0.4.2"
+  }
+}
