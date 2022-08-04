@@ -5,14 +5,13 @@ export default defineConfig({
     login: 'bloodf',
   },
   tiers: [
+   {
+      title: 'Backers',
+    },
     {
       title: 'Sponsors',
       monthlyDollars: 10,
       preset: presets.medium,
-      // to insert custom elements after the tier block
-      composeAfter: (composer, tierSponsors, config) => {
-        composer.addSpan(10)
-      },
     },
     {
       title: 'Silver Sponsors',
