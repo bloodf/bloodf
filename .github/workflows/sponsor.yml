@@ -1,4 +1,4 @@
-name: Scheduler
+name: Sponsors
 
 on:
   workflow_dispatch:
