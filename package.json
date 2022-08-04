@@ -4,7 +4,7 @@
   "description": "",
   "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "sponsorkit"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/bloodf/bloodf#readme",
   "dependencies": {
-    "sponsorkit": "^0.4.2"
+    "sponsorkit": "latest"
   }
 }
